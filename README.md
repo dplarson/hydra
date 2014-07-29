@@ -1,11 +1,8 @@
 # Important Notice
 
 1. Hydra is **being be renamed** (name TBD)
-2. Hydra is undergoing an **internal infrastructural change**
-
-The end result will be similar to what Hydra is now, but much more modularized, and with many more (opt-in) features such as events.
-
-The end result will not look like the current Hydra. Keep this in mind as you download and use Hydra 1.0.
+2. Hydra is undergoing an internal change to become **much more modular**
+3. More (opt-in) features are being added, including window/application/screen/mouse/keyboard **events**
 
 ***
 
