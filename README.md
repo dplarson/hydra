@@ -1,3 +1,9 @@
+# Important Notice
+
+Hydra will soon be renamed, and is undergoing an infrastructural change to become more modularized. The end result will not look like the current Hydra. Keep this in mind as you download and use Hydra 1.0. Thank you.
+
+***
+
 # Hydra
 
 <img src="https://raw.githubusercontent.com/sdegutis/hydra/master/Hydra/XcodeCrap/Images.xcassets/AppIcon.appiconset/icon_128x128.png" alt="Hydra logo" title="Hydra logo" align="right"/>
