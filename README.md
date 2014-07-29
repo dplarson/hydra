@@ -1,8 +1,8 @@
 # Important Notice
 
-1. Hydra is **being be renamed** (name TBD)
+1. Hydra is **being renamed** (TBD)
 2. Hydra is undergoing an internal change to become **much more modular**
-3. More (opt-in) features are being added, including window/application/screen/mouse/keyboard **events**
+3. We're **adding more opt-in features**, including window/application/screen/mouse/keyboard events
 
 ***
 
