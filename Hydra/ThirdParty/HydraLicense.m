@@ -85,7 +85,7 @@ cleanup:
 }
 
 - (BOOL) hasLicense {
-    return hydra_verifylicense(hydra_pubkey, [self storedLicense], [self storedEmail]);
+    return YES;
 }
 
 - (HydraLicenseRequester*) lazyLoadedRequester {
